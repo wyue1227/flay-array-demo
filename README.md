@@ -17,4 +17,4 @@ a.b.d=1
 ```
 
 ### 截图
-![](./output.jpg)
+![](https://s3.bmp.ovh/imgs/2022/06/08/c3e812b4b9d0e229.jpg)
