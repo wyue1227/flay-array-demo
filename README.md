@@ -17,4 +17,4 @@ a.b.d=1
 ```
 
 ### 截图
-![](output.jpg)
+![](./output.jpg)
